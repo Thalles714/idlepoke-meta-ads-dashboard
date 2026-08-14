@@ -1,4 +1,4 @@
-# Dashboard IdlePoke — Meta Ads
+# Dashboard IdlePoke / Meta Ads
 
 Dashboard público de acompanhamento da aquisição do IdlePoke.
 
